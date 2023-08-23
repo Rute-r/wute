@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -10,8 +12,7 @@
   --cor-fonte-principal: #041833;
   --cor-fonte-post: #444444;
   --branco: #fff;
-  --fonte-principal: 'Raleway', sans-serif;
-  --fonte-secundaria: 'Playfair Display', sans-serif;
+  --fonte-principal: 'Quicksand', sans-serif;
 
   font-family: var(--fonte-principal);
 }
