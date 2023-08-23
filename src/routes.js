@@ -1,4 +1,4 @@
-import DefaultPage from 'pages/DefaultPage';
+import DefaultPage from 'components/DefaultPage';
 import Menu from './components/Menu';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from 'pages/Home';
