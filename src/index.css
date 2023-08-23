@@ -24,6 +24,17 @@
   min-height: 100vh;
 }
 
+body::-webkit-scrollbar {
+  width: 6px;
+}
+body::-webkit-scrollbar-track {
+  background: #fff;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #949494a6;
+  border-radius: 20px;
+}
+
 a,
 button,
 input,

@@ -4,6 +4,7 @@
   color: var(--branco);
   display: grid;
   grid-template-columns: 1fr 1fr;
+  box-shadow: -14px 66px 67px -85px rgba(0, 0, 0, 0.27);
 }
 
 .title {
@@ -69,7 +70,7 @@
   }
 
   .images {
-    height: 307px;
+    height: 200px;
   }
 
   .images > .myPhoto {
